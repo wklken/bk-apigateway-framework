@@ -1,0 +1,19 @@
+templates/golang/{{cookiecutter.project_name}}/go.mod
+  s_514fbdea89f6a8::t_bef4443eab000a 33,63,100,103-111,113-123
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "9e8a9b845f3c2b344da4c560a986c25a196f18ee",
+  "prompts": {},
+  "sessions": {
+    "s_514fbdea89f6a8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e15cd-8064-76b3-b70a-f9435bb470ef",
+        "model": "gpt-5.5"
+      },
+      "human_author": "wklken <wklken@gmail.com>"
+    }
+  }
+}
